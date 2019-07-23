@@ -1,3 +1,8 @@
+# Download Haarcascade 
+
+!wget https://www.dropbox.com/s/5o64ru428jlb29g/haarcascade_frontalface_alt.xml?dl=0
+
+
 # Python Bootcamp
 
 This repository contains the teaching material for a **basic Python** bootcamp.
