@@ -1,4 +1,11 @@
-# Download Haarcascade 
+# Help Videos
+
+[Machine Learning Libraries](https://www.youtube.com/watch?v=irHVXFCOp_4)
+
+[Machine Learning - KNN](https://www.youtube.com/watch?v=hBj9JwHAnjs)
+
+
+# Download Haarcascade For Face Detection 
 
 !wget https://www.dropbox.com/s/5o64ru428jlb29g/haarcascade_frontalface_alt.xml?dl=0
 
