@@ -1,3 +1,6 @@
+# Download Helper Code for Neural Network
+!wget https://gist.githubusercontent.com/prateek27/81ef38e7a185f5cecbcb9657f50f8315/raw/91aecb3fba721b227f02d94a07e755a84aa8d795/helper.py
+
 # Help Videos
 
 [Machine Learning Libraries](https://www.youtube.com/watch?v=irHVXFCOp_4)
