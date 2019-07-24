@@ -13,6 +13,8 @@
 - Apply Code - CBROCKS (for some scholarship)
 
 # Filter Visualistion Notebook
+- https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/5.4-visualizing-what-convnets-learn.ipynb
+-
 
 
 # Download Helper Code for Neural Network
